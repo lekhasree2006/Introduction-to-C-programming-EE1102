@@ -1,0 +1,11 @@
+id,status,name,Jobtitle,rating,projects,people,hours
+135,active,anjali,manager,3,1,0,10
+135,active,anjali,manager,4,2,0,10
+146,active,arun,programmer,3,1,135,40
+146,inactive,arun,,,,,
+184,active,hariharan,secretary,4,1,110,10
+184,active,hariharan,secretary,4,2,110,15
+110,active,ganesh,programmer,4,1,135,10
+110,active,ganesh,programmer,4,2,135,20
+110,active ,ganesh,programmer,4,3,135,10
+148,active,tarun,secretary,2,1,146,40
